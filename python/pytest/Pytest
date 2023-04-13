@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T19:07:22.504Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.7" etag="QCzh0D_eODm6mDzPr9qc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T19:54:07.349Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HneqPfSg0077MGcY5oq8" version="21.1.7" type="github">
   <diagram name="Page-1" id="RYUSx-4G7VVHqih0MMMZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1395" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AZO-62CdLVw3vJ0uczde-1" value="Pytest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AZO-62CdLVw3vJ0uczde-2" value="test_{name}.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZO-62CdLVw3vJ0uczde-3" value="def test_{name}():" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
